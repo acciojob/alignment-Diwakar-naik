@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	width:100vw;
+}
+#table-1,#table-2,#table-3{
+	width:100%;
+	border:1px solid black;
+	cell-padding:1px;
+	Spacing: 1px;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+tr,td{
+	border:1px solid black;
+}
