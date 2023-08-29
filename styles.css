@@ -5,7 +5,7 @@ body{
 #table-1,#table-2,#table-3{
 	width:100%;
 	border:1px solid #000000;
-	cell-paddin:1px;
+	cell-padding:1px;
 	Spacing: 1px;
 }
 #t12{
